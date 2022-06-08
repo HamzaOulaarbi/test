@@ -6,6 +6,7 @@ if h=="yes":
 	print('drink water')
 	print('drink juice')
 	print('eat fries')
+	print('stop eating')
 #else :
 #	t=input('are you thirsty')
 #	if t=='yes':
